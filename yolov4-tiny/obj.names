@@ -1,3 +1,8 @@
-assaulter
-freezer
-heater
+down_label
+enemy
+left_label
+player
+right_label
+time_label
+treasure
+up_label

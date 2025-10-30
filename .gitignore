@@ -9,3 +9,10 @@
 /bkp/
 
 *.weights
+unique_image/*
+yolo_custom_dataset
+label_studio_export
+
+yolov4-tiny/test.txt
+
+yolov4-tiny/train.txt
