@@ -10,7 +10,7 @@ However, if you'd like a step-by-step video tutorial, please check out the video
 
 This video will not only walk you through each step of the process but also includes a real-time execution using Diablo 2 as an example.
 
-[![Watch the video](https://img.youtube.com/vi/RSXgyDf2ALo/maxresdefault.jpg)](https://youtu.be/RSXgyDf2ALo)
+
 
 
 
@@ -28,9 +28,7 @@ With this project, you'll obtain a Python code that can detect objects, providin
 
 With the data above, you can create your own logic for automating character actions. You can use libraries like [**pynput**](https://pypi.org/project/pynput/) to control your mouse or keyboard based on the detections.
 
-In this video below I demonstrate how you can use the model predictions with pynput to automate actions in a game.
 
-[![Watch the video](https://img.youtube.com/vi/gdIVHdRbhOs/maxresdefault.jpg)](https://youtu.be/gdIVHdRbhOs)
 
 ## Getting Started
 
@@ -65,7 +63,5 @@ This guide would not be possible without other great tutorials that I used as re
 
 
 
-## Contact
 
-If you have any questions or want to share your projects based on this tutorial, please find me on [LinkedIn](https://www.linkedin.com/in/moisesdias/). I'd love to see your results.
 
